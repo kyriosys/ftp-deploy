@@ -118,7 +118,7 @@ export async function deploy(args: IFtpDeployArgumentsWithDefaults, logger: ILog
     logger.all(`----------------------------------------------------------------`);
     logger.all(`🚀 Thanks for using ftp-deploy. Let's deploy some stuff!   `);
     logger.all(`----------------------------------------------------------------`);
-    logger.all(`If you found this project helpful, please support it`);
+    logger.all(`If you found this project helpful, please support it kkk`);
     logger.all(`by giving it a ⭐ on Github --> https://github.com/SamKirkland/FTP-Deploy-Action`);
     logger.all(`or add a badge 🏷️ to your projects readme --> https://github.com/SamKirkland/FTP-Deploy-Action#badge`);
     logger.verbose(`Using the following excludes filters: ${JSON.stringify(args.exclude)}`);
