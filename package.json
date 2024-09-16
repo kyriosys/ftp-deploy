@@ -1,5 +1,5 @@
 {
-  "name": "@samkirkland/ftp-deploy",
+  "name": "@kyriosys/ftp-deploy",
   "version": "1.2.4",
   "private": false,
   "description": "Deploy files to a ftp server",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamKirkland/ftp-deploy.git"
+    "url": "git+https://github.com/kyriosys/ftp-deploy.git"
   },
   "keywords": [
     "actions",
@@ -52,7 +52,7 @@
     "typescript": "^4.7.4"
   },
   "bugs": {
-    "url": "https://github.com/SamKirkland/ftp-deploy/issues"
+    "url": "https://github.com/kyriosys/ftp-deploy/issues"
   },
-  "homepage": "https://github.com/SamKirkland/ftp-deploy"
+  "homepage": "https://github.com/kyriosys/ftp-deploy"
 }
